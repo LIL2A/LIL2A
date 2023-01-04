@@ -8,10 +8,12 @@ I'm a software developer undergraduate.
 
 ![image](https://img.shields.io/badge/Python-1d1626?style=for-the-badge&logo=Python&logoColor=60c3fc)
 ![image](https://img.shields.io/badge/mysql-1d1626?style=for-the-badge&logo=mysql&logoColor=60c3fc)
-![image](https://img.shields.io/badge/java-1d1626?style=for-the-badge&logo=java&logoColor=60c3fc)
-![image](https://img.shields.io/badge/html-1d1626?style=for-the-badge&logo=html&logoColor=60c3fc)
-![image](https://img.shields.io/badge/css-1d1626?style=for-the-badge&logo=css&logoColor=60c3fc)
 ![image](https://img.shields.io/badge/javascript-1d1626?style=for-the-badge&logo=javascript&logoColor=60c3fc)
+![image](https://img.shields.io/badge/html-1d1626?style=for-the-badge&logo=html5&logoColor=60c3fc)
+![image](https://img.shields.io/badge/css-1d1626?style=for-the-badge&logo=css3&logoColor=60c3fc)
+![image](https://img.shields.io/badge/java-1d1626?style=for-the-badge&logo=java&logoColor=60c3fc)
+
+
 
 
 <h3> And my Github Stats</h3>
